@@ -1,5 +1,5 @@
 @echo off
-title Discord Ozel RPC V2
+title Discord Ozel RPC
 cls
 :justt
 node just.js
